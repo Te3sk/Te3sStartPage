@@ -11,7 +11,7 @@ function App() {
 
 
   return (
-    <div class = {'w-full h-screen bg-' + th.secondColor}>
+    <div class = {'w-full h-screen bg-dark green ' + th.secondColor}>
       <div className = 'flex flex-col items-end mx-5 overflow-y-auto z-10'>
         {/* <Sett/> */}
       </div>
